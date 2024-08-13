@@ -134,6 +134,8 @@ elif page == pages[1]:
 # Page de Data Visualisation
 elif page == pages[2]:
     st.header("📊 Data Visualisation")
+    print('Hello word')
+
 
 # Page de Modélisation
 elif page == pages[3]:
